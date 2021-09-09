@@ -1,0 +1,17 @@
+{
+    "name": "flowfields",
+    "version": "1.0.0",
+    "description": "",
+    "main": "flowfields.js",
+    "scripts": {
+        "start": "canvas-sketch flowfields.js --open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "canvas-sketch": "^0.7.4",
+        "canvas-sketch-util": "^1.10.0",
+        "p5": "^1.4.0"
+    }
+}
